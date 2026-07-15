@@ -1,0 +1,1 @@
+- [Social media research + embeds](social-media-research-and-embeds.md) — how to get real assets when web search is blocked on socials, and how to embed YouTube/Twitch/TikTok in React.
