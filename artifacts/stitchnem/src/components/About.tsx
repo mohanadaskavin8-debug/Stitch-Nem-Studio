@@ -47,17 +47,17 @@ export default function About() {
           </div>
 
           <h2 className="text-5xl sm:text-6xl md:text-7xl font-display font-bold text-white mb-6 uppercase tracking-wider leading-[0.9]">
-            Street Born.<br/>
+            Tamil.<br/>
             <span className="text-white/40">Real Life</span><br/>
             <span className="text-primary">Broadcasted.</span>
           </h2>
           
           <div className="space-y-6 text-base sm:text-lg text-muted-foreground font-sans leading-relaxed max-w-xl">
             <p>
-              Stitchnem is an IRL streamer who takes his audience everywhere. No script. No safety net. The content lives in the gritty, unpredictable energy of real life.
+              Stitchnem is a Tamil IRL streamer who takes his audience everywhere. No script. No safety net—just his culture, his city, and the raw energy of real life on camera.
             </p>
             <p>
-              Whether it's late-night city encounters, unhinged challenges, dropping music videos, or just raw, unfiltered conversations—he broadcasts reality exactly as it happens. You can't script this energy. You just have to show up.
+              Whether it's late-night city encounters, unhinged challenges, dropping music videos, or raw, unfiltered conversations, he broadcasts reality exactly as it happens while repping his Tamil roots to the fullest. You can't script this energy. You just have to show up.
             </p>
           </div>
 
