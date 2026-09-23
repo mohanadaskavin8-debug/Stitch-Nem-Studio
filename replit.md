@@ -1,45 +1,51 @@
-# [Project name]
+# Stitchnem — Creator Website
 
-_Replace the heading above with the project's name, and this line with one sentence describing what this app does for users._
+A modern, responsive personal website designed and developed for **Stitchnem**, a content creator.
 
-## Run & Operate
+The project was built to create a centralized digital presence for Stitchnem, showcasing their content, brand, and online presence through a clean and engaging web experience.
 
-- `pnpm --filter @workspace/api-server run dev` — run the API server (port 5000)
-- `pnpm run typecheck` — full typecheck across all packages
-- `pnpm run build` — typecheck + build all packages
-- `pnpm --filter @workspace/api-spec run codegen` — regenerate API hooks and Zod schemas from the OpenAPI spec
-- `pnpm --filter @workspace/db run push` — push DB schema changes (dev only)
-- Required env: `DATABASE_URL` — Postgres connection string
+## ✨ Features
 
-## Stack
+* 📱 Fully responsive design for desktop, tablet, and mobile
+* 🎨 Custom UI designed around the creator's personal brand
+* ⚡ Fast and interactive user experience
+* 🔗 Centralized access to social platforms and content
+* 🧭 Intuitive navigation and modern page layouts
+* 🚀 Production-ready deployment
 
-- pnpm workspaces, Node.js 24, TypeScript 5.9
-- API: Express 5
-- DB: PostgreSQL + Drizzle ORM
-- Validation: Zod (`zod/v4`), `drizzle-zod`
-- API codegen: Orval (from OpenAPI spec)
-- Build: esbuild (CJS bundle)
+## 🛠️ Tech Stack
 
-## Where things live
+* **Frontend:** [Add your framework — e.g. React / Next.js]
+* **Styling:** [Add — e.g. Tailwind CSS]
+* **Language:** [Add — e.g. JavaScript / TypeScript]
+* **Deployment:** [Add — e.g. Vercel / Replit]
 
-_Populate as you build — short repo map plus pointers to the source-of-truth file for DB schema, API contracts, theme files, etc._
+## 🎯 Project Goals
 
-## Architecture decisions
+The goal of this project was to transform Stitchnem's online presence into a professional, centralized platform that makes it easy for visitors to discover their content and connect across different platforms.
 
-_Populate as you build — non-obvious choices a reader couldn't infer from the code (3-5 bullets)._
+The design focused on:
 
-## Product
+* Strong visual identity
+* Mobile-first responsiveness
+* Simple and intuitive navigation
+* Modern UI/UX
+* Performance and accessibility
 
-_Describe the high-level user-facing capabilities of this app once they exist._
+## 📸 Screenshots
 
-## User preferences
+*Add screenshots of the website here.*
 
-_Populate as you build — explicit user instructions worth remembering across sessions._
+## 🌐 Live Website
 
-## Gotchas
+[Visit the Website](YOUR_WEBSITE_URL)
 
-_Populate as you build — sharp edges, "always run X before Y" rules._
+## 👨‍💻 Development
 
-## Pointers
+This project was designed and developed from concept through deployment, including the UI/UX design, frontend implementation, responsive optimization, and final deployment.
 
-- See the `pnpm-workspace` skill for workspace structure, TypeScript setup, and package details
+---
+
+**Built by [Your Name](YOUR_LINKEDIN_URL)**
+
+More projects: [GitHub](YOUR_GITHUB_URL)
