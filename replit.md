@@ -32,20 +32,9 @@ The design focused on:
 * Modern UI/UX
 * Performance and accessibility
 
-## 📸 Screenshots
-
-*Add screenshots of the website here.*
-
-## 🌐 Live Website
-
-[Visit the Website](YOUR_WEBSITE_URL)
 
 ## 👨‍💻 Development
 
 This project was designed and developed from concept through deployment, including the UI/UX design, frontend implementation, responsive optimization, and final deployment.
 
 ---
-
-**Built by [Your Name](YOUR_LINKEDIN_URL)**
-
-More projects: [GitHub](YOUR_GITHUB_URL)
